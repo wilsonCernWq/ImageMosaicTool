@@ -1,0 +1,107 @@
+// --- correspondence matrix
+6 6
+0.000000 1.000000 0.000000 1.000000 0.000000 0.000000 
+0.000000 0.000000 1.000000 0.000000 1.000000 0.000000 
+0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 
+0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 
+0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 
+0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 
+// --- image file names
+data/cell_mosaic_images_2/0003.0001.000.png
+data/cell_mosaic_images_2/0003.0001.001.png
+data/cell_mosaic_images_2/0003.0001.002.png
+data/cell_mosaic_images_2/0003.0001.004.png
+data/cell_mosaic_images_2/0003.0001.005.png
+data/cell_mosaic_images_2/0003.0001.006.png
+// --- 0 & 1 correspondence
+0 1
+4 2
+1 1
+1 1020
+1020 1
+1020 1020
+// --- 1 & 0 correspondence
+1 0
+4 2
+-2 377
+-2 1396
+1017 377
+1017 1396
+// --- 0 & 3 correspondence
+0 3
+4 2
+1 1
+1 1020
+1020 1
+1020 1020
+// --- 3 & 0 correspondence
+3 0
+4 2
+-355 -6
+-355 1013
+664 -6
+664 1013
+// --- 1 & 2 correspondence
+1 2
+4 2
+1 1
+1 1020
+1020 1
+1020 1020
+// --- 2 & 1 correspondence
+2 1
+4 2
+-1 405
+-1 1424
+1018 405
+1018 1424
+// --- 1 & 4 correspondence
+1 4
+4 2
+1 1
+1 1020
+1020 1
+1020 1020
+// --- 4 & 1 correspondence
+4 1
+4 2
+-360 -5
+-360 1014
+659 -5
+659 1014
+// --- 2 & 5 correspondence
+2 5
+4 2
+1 1
+1 1020
+1020 1
+1020 1020
+// --- 5 & 2 correspondence
+5 2
+4 2
+-362 -5
+-362 1014
+657 -5
+657 1014
+// --- 3 & 4 correspondence
+3 4
+4 2
+1 1
+1 1020
+1020 1
+1020 1020
+// --- 4 & 3 correspondence
+4 3
+4 2
+-7 378
+-7 1397
+1012 378
+1012 1397
+// --- domain
+0
+// --- output name
+data/cell_mosaic_images_2/mosaic.jpg
+// -- options
+gpu true
+feathering inner
+contrast histmatch

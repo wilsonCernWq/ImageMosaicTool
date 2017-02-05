@@ -1,0 +1,251 @@
+// --- correspondence matrix
+8 8
+0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 1.000000 0.000000 
+0.000000 0.000000 1.000000 1.000000 0.000000 1.000000 0.000000 0.000000 
+0.000000 0.000000 0.000000 1.000000 0.000000 1.000000 0.000000 0.000000 
+0.000000 0.000000 0.000000 0.000000 1.000000 1.000000 0.000000 1.000000 
+0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 
+0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 1.000000 
+0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 
+0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 
+// --- image file names
+data/ospParticle_various_size/ospParticle_various_size_0000_0.png
+data/ospParticle_various_size/ospParticle_various_size_0001_1.png
+data/ospParticle_various_size/ospParticle_various_size_0002_2.png
+data/ospParticle_various_size/ospParticle_various_size_0003_3.png
+data/ospParticle_various_size/ospParticle_various_size_0004_4.png
+data/ospParticle_various_size/ospParticle_various_size_0005_5.png
+data/ospParticle_various_size/ospParticle_various_size_0006_6.png
+data/ospParticle_various_size/ospParticle_various_size_0007_7.png
+// --- 0 & 1 correspondence
+0 1
+4 2
+1 1
+1 1234
+1434 1
+1434 1234
+// --- 1 & 0 correspondence
+1 0
+4 2
+1 -156
+1 1077
+1434 -156
+1434 1077
+// --- 0 & 5 correspondence
+0 5
+4 2
+1 1
+1 1080
+1434 1
+1434 1080
+// --- 5 & 0 correspondence
+5 0
+4 2
+-208 -243
+-208 836
+1225 -243
+1225 836
+// --- 0 & 6 correspondence
+0 6
+4 2
+1 1
+1 1014
+1434 1
+1434 1014
+// --- 6 & 0 correspondence
+6 0
+4 2
+-546 1
+-546 1014
+887 1
+887 1014
+// --- 1 & 2 correspondence
+1 2
+4 2
+1 1
+1 1234
+792 1
+792 1234
+// --- 2 & 1 correspondence
+2 1
+4 2
+1 -304
+1 929
+792 -304
+792 929
+// --- 1 & 3 correspondence
+1 3
+4 2
+1 1
+1 1234
+1402 1
+1402 1234
+// --- 3 & 1 correspondence
+3 1
+4 2
+-149 -516
+-149 717
+1252 -516
+1252 717
+// --- 1 & 5 correspondence
+1 5
+4 2
+1 1
+1 1234
+1372 1
+1372 1234
+// --- 5 & 1 correspondence
+5 1
+4 2
+-208 -87
+-208 1146
+1163 -87
+1163 1146
+// --- 2 & 3 correspondence
+2 3
+4 2
+1 1
+1 1192
+1402 1
+1402 1192
+// --- 3 & 2 correspondence
+3 2
+4 2
+-149 -212
+-149 979
+1252 -212
+1252 979
+// --- 2 & 5 correspondence
+2 5
+4 2
+1 1
+1 1192
+1372 1
+1372 1192
+// --- 5 & 2 correspondence
+5 2
+4 2
+-208 218
+-208 1409
+1163 218
+1163 1409
+// --- 3 & 4 correspondence
+3 4
+4 2
+1 1
+1 1186
+1402 1
+1402 1186
+// --- 4 & 3 correspondence
+4 3
+4 2
+-492 420
+-492 1605
+909 420
+909 1605
+// --- 3 & 5 correspondence
+3 5
+4 2
+1 1
+1 1080
+1402 1
+1402 1080
+// --- 5 & 3 correspondence
+5 3
+4 2
+-59 430
+-59 1509
+1342 430
+1342 1509
+// --- 3 & 7 correspondence
+3 7
+4 2
+1 1
+1 1042
+1402 1
+1402 1042
+// --- 7 & 3 correspondence
+7 3
+4 2
+-403 138
+-403 1179
+998 138
+998 1179
+// --- 4 & 5 correspondence
+4 5
+4 2
+1 1
+1 1186
+1372 1
+1372 1186
+// --- 5 & 4 correspondence
+5 4
+4 2
+434 11
+434 1196
+1805 11
+1805 1196
+// --- 4 & 6 correspondence
+4 6
+4 2
+1 1
+1 1186
+964 1
+964 1186
+// --- 6 & 4 correspondence
+6 4
+4 2
+96 254
+96 1439
+1059 254
+1059 1439
+// --- 4 & 7 correspondence
+4 7
+4 2
+1 1
+1 1186
+952 1
+952 1186
+// --- 7 & 4 correspondence
+7 4
+4 2
+90 -282
+90 903
+1041 -282
+1041 903
+// --- 5 & 6 correspondence
+5 6
+4 2
+1 1
+1 1080
+1372 1
+1372 1080
+// --- 6 & 5 correspondence
+6 5
+4 2
+-338 244
+-338 1323
+1033 244
+1033 1323
+// --- 5 & 7 correspondence
+5 7
+4 2
+1 1
+1 1080
+1372 1
+1372 1080
+// --- 7 & 5 correspondence
+7 5
+4 2
+-344 -292
+-344 787
+1027 -292
+1027 787
+// --- domain
+0
+// --- output name
+data/ospParticle_various_size/mosaic.jpg
+// -- options
+gpu true
+feathering inner
+contrast false

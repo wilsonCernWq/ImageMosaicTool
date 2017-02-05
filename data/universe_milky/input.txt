@@ -1,0 +1,177 @@
+// --- correspondence matrix
+6 6
+0.000000 1.000000 0.000000 1.000000 1.000000 0.000000 
+0.000000 0.000000 1.000000 1.000000 1.000000 1.000000 
+0.000000 0.000000 0.000000 0.000000 1.000000 1.000000 
+0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 
+0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 
+0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 
+// --- image file names
+data/universe_milky/universe_milky_0000_0.png
+data/universe_milky/universe_milky_0001_1.png
+data/universe_milky/universe_milky_0002_2.png
+data/universe_milky/universe_milky_0003_3.png
+data/universe_milky/universe_milky_0004_4.png
+data/universe_milky/universe_milky_0005_5.png
+// --- 0 & 1 correspondence
+0 1
+4 2
+1 1
+1 960
+2686 1
+2686 960
+// --- 1 & 0 correspondence
+1 0
+4 2
+1 -337
+1 622
+2686 -337
+2686 622
+// --- 0 & 3 correspondence
+0 3
+4 2
+1 1
+1 960
+2686 1
+2686 960
+// --- 3 & 0 correspondence
+3 0
+4 2
+-577 1
+-577 960
+2108 1
+2108 960
+// --- 0 & 4 correspondence
+0 4
+4 2
+1 1
+1 960
+2686 1
+2686 960
+// --- 4 & 0 correspondence
+4 0
+4 2
+-577 -337
+-577 622
+2108 -337
+2108 622
+// --- 1 & 2 correspondence
+1 2
+4 2
+1 1
+1 960
+2686 1
+2686 960
+// --- 2 & 1 correspondence
+2 1
+4 2
+1 -263
+1 696
+2686 -263
+2686 696
+// --- 1 & 3 correspondence
+1 3
+4 2
+1 1
+1 960
+2686 1
+2686 960
+// --- 3 & 1 correspondence
+3 1
+4 2
+-577 338
+-577 1297
+2108 338
+2108 1297
+// --- 1 & 4 correspondence
+1 4
+4 2
+1 1
+1 960
+2686 1
+2686 960
+// --- 4 & 1 correspondence
+4 1
+4 2
+-577 1
+-577 960
+2108 1
+2108 960
+// --- 1 & 5 correspondence
+1 5
+4 2
+1 1
+1 960
+2686 1
+2686 960
+// --- 5 & 1 correspondence
+5 1
+4 2
+-577 -263
+-577 696
+2108 -263
+2108 696
+// --- 2 & 4 correspondence
+2 4
+4 2
+1 1
+1 960
+2686 1
+2686 960
+// --- 4 & 2 correspondence
+4 2
+4 2
+-577 264
+-577 1223
+2108 264
+2108 1223
+// --- 2 & 5 correspondence
+2 5
+4 2
+1 1
+1 960
+2686 1
+2686 960
+// --- 5 & 2 correspondence
+5 2
+4 2
+-577 1
+-577 960
+2108 1
+2108 960
+// --- 3 & 4 correspondence
+3 4
+4 2
+1 1
+1 960
+2686 1
+2686 960
+// --- 4 & 3 correspondence
+4 3
+4 2
+1 -337
+1 622
+2686 -337
+2686 622
+// --- 4 & 5 correspondence
+4 5
+4 2
+1 1
+1 960
+2686 1
+2686 960
+// --- 5 & 4 correspondence
+5 4
+4 2
+1 -263
+1 696
+2686 -263
+2686 696
+// --- domain
+0
+// --- output name
+data/universe_milky/mosaic.jpg
+// -- options
+gpu true
+feathering inner
+contrast false

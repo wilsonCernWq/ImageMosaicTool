@@ -1,0 +1,29 @@
+>> program('data/cell_mosaic_images_1','histmatch')
+Elapsed time is 2.842919 seconds.
+
+>> program('data/cell_mosaic_images_2','histmatch')
+Elapsed time is 2.916291 seconds.
+
+>> program('data/wallimage')
+Elapsed time is 25.647229 seconds.
+
+>> program('data/example')
+Elapsed time is 2.880759 seconds.
+
+>> program('data/elevation')
+Elapsed time is 394.857136 seconds.
+
+>> program('data/ospTachyon')
+Elapsed time is 4.981369 seconds.
+
+>> program('data/ospParticle')
+Elapsed time is 4.905201 seconds.
+
+>> program('data/ospParticle_various_size')
+Elapsed time is 11.231870 seconds.
+
+>> program('data/universe_milky')
+Elapsed time is 6.812352 seconds.
+
+>> program('data/maxresdefault')
+Elapsed time is 8.286695 seconds.
